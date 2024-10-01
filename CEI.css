@@ -13,10 +13,10 @@
     border: none;
     color: white;
     cursor: pointer;
-    margin: center;
 }
 
 #botonEnviar {
     padding: 10px 20px;
     border-radius: 5px;
+    margin: center;
 }
