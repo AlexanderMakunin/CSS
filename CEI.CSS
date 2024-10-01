@@ -1,1 +1,21 @@
-xd
+#titulo {
+    font-size: 24px;
+    color: blue;
+}
+
+.texto {
+    color: black;
+    margin: 10px 0;
+}
+
+.boton {
+    background-color: green;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+#botonEnviar {
+    padding: 10px 20px;
+    border-radius: 5px;
+}
