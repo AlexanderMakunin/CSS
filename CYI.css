@@ -1,0 +1,18 @@
+.titulo {
+    font-size: 24px;
+    color: blue;
+}
+
+#destacado {
+    color: green;
+    margin: auto;
+}
+
+.contenido {
+    color: purple;
+    margin: 50px;
+}
+
+#especial {
+  background-color: green;
+}
