@@ -5,14 +5,13 @@
 
 .texto {
     color: black;
-    margin: 10px 0;
+    margin: auto;
 }
 
 .boton {
     background-color: green;
     border: none;
     color: white;
-    cursor: pointer;
 }
 
 #botonEnviar {
