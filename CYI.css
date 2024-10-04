@@ -13,11 +13,12 @@
     margin: 50px;
     border-radius: 100px;
     background-color: #781f19;
+    border: 10px solid black;
 }
 
 #especial {
   color: purple;
   margin: 50px;
-  border-radius: 200px;
+  border: 5px solid black;
   background-color: green;
 }
