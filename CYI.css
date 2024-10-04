@@ -12,8 +12,12 @@
     color: purple;
     margin: 50px;
     border: 100px;
+    background-color: #781f19;
 }
 
 #especial {
+  color: purple;
+  margin: 50px;
+  border: 100px;
   background-color: green;
 }
