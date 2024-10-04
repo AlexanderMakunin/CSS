@@ -1,6 +1,3 @@
-.body {
-    background-color: black;
-}
 .titulo {
     font-size: 24px;
     color: blue;
@@ -14,13 +11,13 @@
 .contenido {
     color: purple;
     margin: 50px;
-    border: 100px;
+    border-radius: 100px;
     background-color: #781f19;
 }
 
 #especial {
   color: purple;
   margin: 50px;
-  border: 100px;
+  border-radius: 200px;
   background-color: green;
 }
