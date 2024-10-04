@@ -5,12 +5,13 @@
 
 #destacado {
     color: green;
-    margin: auto;
+    background-color: yellow;
 }
 
 .contenido {
     color: purple;
     margin: 50px;
+    border: 100px;
 }
 
 #especial {
